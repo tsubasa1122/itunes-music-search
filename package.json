@@ -6,6 +6,8 @@
   "author": "tsubasa1122 <nakanot@open8.com>",
   "license": "MIT",
   "dependencies": {
-    "parcel": "^1.12.4"
+    "parcel": "^1.12.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
   }
 }
