@@ -2,7 +2,7 @@ import qs from "qs";
 import axios from "axios";
 
 const apiClient = axios.create({
-  baseURL: "https://itunes.app.com"
+  baseURL: "https://itunes.apple.com"
 });
 
 export const getMusics = term => {
