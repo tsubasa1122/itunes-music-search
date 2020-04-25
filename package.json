@@ -5,6 +5,10 @@
   "repository": "git@github.com:tsubasa1122/itunes-music-search.git",
   "author": "tsubasa1122 <nakanot@open8.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "parcel src/index.html -d dist",
+    "build": "parcel build src/index.html -d dist"
+  },
   "dependencies": {
     "parcel": "^1.12.4",
     "react": "^16.13.1",
