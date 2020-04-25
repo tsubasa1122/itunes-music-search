@@ -10,6 +10,7 @@
     "build": "parcel build src/index.html -d dist"
   },
   "dependencies": {
+    "axios": "^0.19.2",
     "parcel": "^1.12.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
