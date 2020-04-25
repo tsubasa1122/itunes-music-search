@@ -1,0 +1,11 @@
+{
+  "name": "itunes-music-search",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tsubasa1122/itunes-music-search.git",
+  "author": "tsubasa1122 <nakanot@open8.com>",
+  "license": "MIT",
+  "dependencies": {
+    "parcel": "^1.12.4"
+  }
+}
